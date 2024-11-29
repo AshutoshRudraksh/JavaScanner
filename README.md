@@ -4,7 +4,7 @@ Welcome to the Java Scanner project! This repository contains a lexical analyzer
 
 ## 📋 Table of Contents
 
-- [Features](#features)
+- [Features](#features) 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
